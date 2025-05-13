@@ -1,0 +1,18 @@
+| Cú pháp | Ý nghĩa |
+|--------|---------|
+| `margin: 10px;` | tất cả 4 phía |
+| `margin: 10px 20px;` | trên-dưới | trái-phải |
+| `margin: 10px 20px 30px;` | trên | trái-phải | dưới |
+| `margin: 10px 20px 30px 40px;` | trên | phải | dưới | trái |
+
+
+**********
+Viền                        border: [width] [style] [color];
+Kiểu danh sách              list-style: [type] [position] [image];
+Hiệu ứng chuyển động        transition: [property] [duration] [timing-function] [delay];
+Viền ngoài (khác border)    outline: [width] [style] [color];
+
+
+Rút gọn cho flex-grow, flex-shrink, flex-basis          flex: [grow] [shrink] [basis];
+
+Bo góc          border-radius: 10px 5px 15px 0;/* trên trái | trên phải | dưới phải | dưới trái */

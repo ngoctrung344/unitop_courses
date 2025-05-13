@@ -1,0 +1,24 @@
+-Văn Bản
+ h1+2+3 : Định dạng tiêu đề (số thẻ h Lớn thì càng nhỏ)
+ p      : Dùng Để định dạng văn bản
+ span   : Thông tin phụ ( comment, giá sản phẩm )/ thẻ del ghạch ngang ( giá cũ )  
+ b/i/u  : In đậm/nghiêng/ghạch đích
+ aside  : Chứa thông tin phụ ( kích thước tự động nhỏ hơn )
+
+ a      : Kết nối đừng dẫn ( target="_blank" mở trong tab mới )
+
+-Thứ Tự DS
+ ul>li   : không có thứ tự danh sách (list-style: none Mất dấu dòng; disc Hình vuông; circle Tròn trắng; square Hình vuông; [ mặc định tròn đen ] )
+ ol>li   : có số thứ tự danh sách
+
+
+ img     : Hình ảnh (src đườnd dẫn ảnh; alt mô tả ảnh;  title hiển thị chú thích khi rê chuột)
+
+--------------
+ header : Dùng để định nghĩa đầu trang webside
+ footer : Dùng để định nghĩa cuối trang  webside
+ nav    : Dùng để điều hướng ( thường dùng cho menu )
+ 
+
+
+

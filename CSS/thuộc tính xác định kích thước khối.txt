@@ -1,0 +1,2 @@
+box-sizing: border-box;// kích thước khối không thay đổi
+box-sizing: content-box;// mặc định kích bằng với kích thước khối nội dugn trong và thay đổi

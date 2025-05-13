@@ -1,0 +1,8 @@
+color	Màu chữ	color: red;
+font-size	Kích thước chữ	font-size: 16px;
+font-family	Phông chữ	font-family: Arial, sans-serif;
+font-weight	Độ đậm	font-weight: bold;
+font-style	Kiểu chữ nghiêng	font-style: italic;
+text-transform	In hoa/thường	text-transform: uppercase;
+text-align	Căn trái, phải, giữa	text-align: center;
+text-decoration	Gạch chân, gạch ngang	text-decoration: underline;

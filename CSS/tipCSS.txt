@@ -1,0 +1,31 @@
+ khoảng trắng : con cháu hoặc hậu diệu ( tác động gián tiếp )
+ >            : cha con ( tác động trực tiếp )
+
+
+ dấu phẩy         : tác động s1,s2,...
+ viết liền nhau   : tác động s1,s2
+ thẻ.tên selector : tác động vào thẻ, có tên class hoặc id đó 
+
+**************
+-Hiệu Ứng
+ :hover                    : hiệu ứng khi rê chuột vào 
+ :before/:after            : hiệu ứng chèn trước/sau ( content của selector )
+ :first-child/ last-child/ :ntn-child(odd/even)    :  tác động ptử đầu tiên/ ptử đầu vị trí cuối/ ptử ( chẳn/lẻ ) 
+ :not(s/tên)               : loại trừ ptử s/tên
+-FORM
+ :focus Hiển thị tác vụ khi bạn click nhập
+ :checked Hiển thị tác vụ khi check
+
+-Sử dụng dấu tác động
+ dấu cộng (+)    : tác động liền kề ( TRỰC TIẾP )
+ dấu ngã (~)     : tác động không liền kề ( GIÁN TIẾP )
+
+
+
+ **************
+ THỨ TỰ ƯU TIÊN CSS 
+ trong thẻ > style trong file > file css 
+ id> class
+ s chi tiết > s chung chung
+ ** !important; sử dụng cho thuộc tính muốn ưu tiên ( THĂNG HẠNG )
+

@@ -1,0 +1,9 @@
+- 2 Loại Đường Dẫn
+ +đường dẫn tương đối  : Là đường dẫn kết nối tài nguyên có trong dự án hoặc thư mục
+ +đường dẫn tuyệt đối  : Là đường dẫn kết nối với tài nguyên có trong hệ thống khác hoặc trên một webside khác
+
+- Viết Tắt & Lorem 
+ +thẻ văn bản{văn bản} : hiển thị thẻ trong đó có văn bản 
+ +loremsố              : độ dài chuỗi ký tự
+ +$số                  : đánh số thứ tự
+ +*số                  : muốn hiển thị bao nhiêu hàng

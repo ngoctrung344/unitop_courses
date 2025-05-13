@@ -1,0 +1,5 @@
+with chiều dài ( NGANG )
+height chiều cao ( ĐỨNG )
+
+min+ kích thước : kích thước nhỏ nhất có thể giãn ra nữa
+max - kích thước :  kích thước tối đa  khối
